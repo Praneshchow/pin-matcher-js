@@ -6,7 +6,7 @@ body {
     height: 100vh;
 }
 .container {
-    margin-top: 30px;
+    margin-top: 60px;
 }
 
 .half-width {
@@ -20,8 +20,8 @@ body {
     width: 180px;
     padding: 50px;
     border-radius: 50%;
-    border: 8px solid #39458C;
-    background-color: #495BC3;
+    border: 8px solid #ff0505;
+    background-color: #4153bd;
     color: #ffffff;
     font-weight: bold;
     font-size: 20px;
